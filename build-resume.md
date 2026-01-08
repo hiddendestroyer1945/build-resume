@@ -1,6 +1,6 @@
 #   Build the Resume
 *   **Description**: To explain about the, what a resume is, specifications of good resume and what are the activities of building the resume based on profile.
-*   
+
 *   **What is Resume**: A resume is a document that summarizes a person's profile-based qualifications, skills, and experience for a specific job or position. It is typically used in the hiring process to help employers evaluate candidates and make informed decisions about who to hire.
    
 *   **Specifications of Good Resume**: A good resume is not a graphical beautiful resume. A good resume is one that can be built by including the job seeker's basic information and all the information of the job seeker's profile roadmap.
